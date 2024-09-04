@@ -1,0 +1,41 @@
+label{
+    display: inline-block
+}
+
+input{
+    display: inline-block;
+    color:grey;
+    margin-top: 20px;
+    
+}
+
+div{
+   
+    
+    width: 500px;
+    /* height: 100px; */
+    margin: 0 auto;
+    text-align:center;
+    text-align: center;
+    
+}
+
+p{
+    font-size: small;
+    color: gray;
+}
+
+.last-name{
+    margin-left: 35px;
+}
+
+.phone-number{
+    margin-left: -30px;
+}
+ 
+.Username{
+    margin-left: -12px;
+}
+.Password{
+    margin-left: -12px;
+}
